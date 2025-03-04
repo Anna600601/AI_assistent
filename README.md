@@ -2,7 +2,9 @@
 
 Ссылка на проект: @Goncar_Master_bot
 
+Скриншоты работы ассистента:
 ![Иллюстрация к проекту](https://raw.githubusercontent.com/Anna600601/AI_assistent/refs/heads/main/%D1%81%D0%BA%D1%801.png)
+![Иллюстрация к проекту]([https://example.com/image.png](https://raw.githubusercontent.com/Anna600601/AI_assistent/refs/heads/main/%D1%81%D0%BA%D1%802.png))
 
 ## О проекте
 
